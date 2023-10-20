@@ -1,7 +1,30 @@
 # www.do.camera
 - do.camera - control your monitoring system in many ways: text, voice, gesture
 
+to the camera:
+- Pose for the camera.
+- Smile for the camera.
+- Direct your attention to the camera.
+- Speak directly to the camera.
+- Hand the document to the camera.
+- Present your findings to the camera.
+- Show your product to the camera.
+- Perform your routine to the camera.
+- Deliver your lines to the camera.
+- Express your emotions to the camera.
 
+do camera:
+- Adjust the focus do camera.
+- Capture the moment with a click do camera.
+- Set up the tripod and mount the camera do camera.
+- Review the footage recorded do camera.
+- Attach the lens do camera.
+- Press the record button do camera.
+- Check the battery level do camera.
+- Change the camera angle do camera.
+- Zoom in to capture the details do camera.
+- Take a panoramic shot do camera.
+  
 ### Camera sales: 
 The website may have an e-commerce platform where you can purchase different types of cameras, lenses, and camera accessories.
 
